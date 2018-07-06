@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'title' => 'AdminLTE 2',
+    'title' => 'Apadrinhamento',
 
     'title_prefix' => '',
 
@@ -30,7 +30,7 @@ return [
     |
     */
 
-    'logo' => '<b>Admin</b>LTE',
+    'logo' => '<b>APC</b>',
 
     'logo_mini' => '<b>A</b>LT',
 
